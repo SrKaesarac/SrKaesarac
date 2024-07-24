@@ -3,8 +3,8 @@
 # <h4 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F6F7&lines=I+accept+constructive+opinions;To+improve+myself+as+a+Developer)](https://git.io/typing-svg)</h4>
 
 
-- 🌱 I’m currently learning HTML/CSS/JS, and basic C# is on the way.
-- 📌 I’m looking for help and tips to find good C# content to study.
+- 🌱 I’m currently learning HTML/CSS/JS, and Python is on the way.
+- 📌 I’m looking for help and tips to find good Python content to study.
 - 💍 ✨Happily Married✨
 - 💌 How to interact with me: https://www.linkedin.com/in/augusto-cesar-314180319
 - 😄 Pronouns: He/Him
